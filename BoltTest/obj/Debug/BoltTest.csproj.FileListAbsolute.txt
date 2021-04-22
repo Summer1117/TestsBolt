@@ -1,0 +1,12 @@
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\bin\Debug\BoltTest.dll
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\bin\Debug\BoltTest.pdb
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\bin\Debug\nunit.framework.dll
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\bin\Debug\WebDriver.dll
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\bin\Debug\WebDriver.Support.dll
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\bin\Debug\nunit.framework.xml
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\obj\Debug\BoltTest.csprojAssemblyReference.cache
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\obj\Debug\BoltTest.csproj.CoreCompileInputs.cache
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\obj\Debug\BoltTest.csproj.CopyComplete
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\obj\Debug\BoltTest.dll
+C:\Users\samer\RiderProjects\BoltTest\BoltTest\obj\Debug\BoltTest.pdb
