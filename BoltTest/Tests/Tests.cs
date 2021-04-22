@@ -12,7 +12,6 @@ namespace BoltTest
         public IWebDriver driver;
         
         string URL = "https://duckduckgo.com/";
-        string uploadHistoryURL = "https://trade.stage.rapnet.com/#/uploadhistory";
         
         [SetUp]
         public void Setup()
